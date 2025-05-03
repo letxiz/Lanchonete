@@ -25,4 +25,4 @@ Este projeto foi desenvolvido com fins **didáticos**, para praticar conceitos d
 
 Leticia  
 Estudante de programação e desenvolvimento de sistemas
-Focada em aprender Java, Banco de Dados e Desenvolvimento de Sistemas
+
